@@ -1,0 +1,31 @@
+h1 {color:rebeccapurple; 
+    font-size:  120px}
+
+.blueElements {
+    color:bisque; 
+}
+#monday {
+    color:darkgreen
+}
+a.nowhere:hover {
+    color:firebrick;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+a.nowhere:active {
+    color:darkgreen
+}
+ul li {
+    color:lavender
+}
+h2 {
+    color: chocolate;
+}
+#boxModel {
+    font-size: 30px;
+    width: 150 px;
+    height: 150px;
+    border: 1px solid black;
+    border-radius: 30px;
+    margin: 100 px
+    
+}
